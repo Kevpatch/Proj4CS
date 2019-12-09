@@ -94,7 +94,6 @@ public class Tree<E extends Comparable<E>>
         
         else if(cursor == root && cursor.getLeft() == null) {
             root = root.getRight();
-
             numItems--;
         }
         else if (cursor != root && cursor.getLeft() == null) {
