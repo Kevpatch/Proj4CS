@@ -5,5 +5,4 @@ Don't think I'm going to give you the answer though, haha!
 But I will say I do love my brothers, Joey and Brian.
 Though there are probably LOTS of Joseph or Brian Patchetts out there. 
 I'll give you one little hint for each.
-Oliver Alvarado Rodriguez
-Edward Schulman
+Oliver Alvarado Rodriguez and Edward Schulman
